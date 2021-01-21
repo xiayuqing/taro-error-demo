@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+*/node_modules
+/utils/node_modules
+/model/node_modules
+/server/node_modules
+# roadhog-api-doc ignore
+/src/utils/request-temp.js
+
+# production
+/dist
+.idea
+.history
+
+# misc
+.DS_Store
+npm-debug.log*
+
+#visual studio
+.vscode
